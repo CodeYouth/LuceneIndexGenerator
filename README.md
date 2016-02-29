@@ -1,0 +1,2 @@
+# LuceneIndexGenerator
+Lucene引擎数据库生成工具
